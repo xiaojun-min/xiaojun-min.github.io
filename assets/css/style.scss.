@@ -1,4 +1,4 @@
 ---
 ---
 
-@import "Modernist";
+@import "{{ site.theme }}";
